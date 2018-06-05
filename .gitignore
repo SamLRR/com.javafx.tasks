@@ -28,13 +28,13 @@
 
 ## File-based project format:
 *.iws
+*.jar
 
 ## Plugin-specific files:
 
 # IntelliJ
 /out/
-/lib/
-/libs/
+
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
