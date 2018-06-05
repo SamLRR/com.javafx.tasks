@@ -28,7 +28,7 @@
 
 ## File-based project format:
 *.iws
-*.jar
+#*.jar
 
 ## Plugin-specific files:
 
